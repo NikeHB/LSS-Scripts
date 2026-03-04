@@ -2861,5 +2861,44 @@
 			"max": 0
 		},
 		"building": [9]
-	}
+	},
+	{
+		"id": 181,
+		"name": "MzGW (FGr BrB)",
+		"short_name": "MzGW (FGr BrB)",
+		"class": [],
+		"class_alias": [],
+		"cost": 15000,
+		"personal": {
+			"min": 6,
+			"max": 9
+		},
+		"building": [9]
+	},
+	{
+		"id": 182,
+		"name": "Mobilkran)",
+		"short_name": "Mobilkran",
+		"class": [],
+		"class_alias": [],
+		"cost": 30000,
+		"personal": {
+			"min": 1,
+			"max": 1
+		},
+		"building": [9]
+	},
+	{
+		"id": 183,
+		"name": "Anh Plattform (FGr BrB)",
+		"short_name": "Anh Plattform (FGr BrB)",
+		"class": [],
+		"class_alias": [],
+		"cost": 6000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9]
+	},
 ]
